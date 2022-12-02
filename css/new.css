@@ -1,0 +1,53 @@
+.i-pic {
+    margin-left: -30px ;
+    top : 30% ;
+    margin-bottom: 10px ;
+    font-size: 30px ;
+    cursor : pointer ;
+    color : var(--bg-brown-700) ;
+    background-color: transparent ;
+}
+
+.users_main_pic {
+    background-color: var(--bg-white-50) ;
+    max-width: 300px ;
+    justify-content: space-between;
+    display : none ;
+    padding : 10px 20px ;
+    margin :auto ;
+}
+
+.users_main_pic button {
+    background: var(--bg-brown-700);
+    border : none ;
+    border-radius: 4px ;
+    padding : 4px 15px ;
+    color : white ;
+    font-weight: bold ;
+}
+
+.users_main_pic button:hover {
+    background: var(--bg-brown-500);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

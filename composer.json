@@ -1,0 +1,17 @@
+{
+    "name": "webapp/lettalk",
+    "authors": [
+        {
+            "name": "nyi nyi lwin"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.20"
+    } ,
+    "autoload" : {
+        "psr-4": {
+            "Database\\": "connect/Database/" ,
+            "Helpers\\": "connect/Helpers/"
+        }
+    }
+}
